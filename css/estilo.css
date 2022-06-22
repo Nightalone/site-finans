@@ -13,7 +13,7 @@ footer p a{
 }
 
 .titulo{
-	font-size: 50px;
+	font-size: 46px;
 }
 
 @media (max-width: 575.98px) {
@@ -22,8 +22,8 @@ footer p a{
 	}
 
 	.capa{
-		width: 350px;
-		height: 430px;
+		width: 330px;
+		height: 410px;
 		
 	}
  }
