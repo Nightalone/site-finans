@@ -16,6 +16,12 @@ footer p a{
 	.caixaTexto{
 		width: 330px;
 	}
+
+	.capa{
+		width: 350px;
+		height: 430px;
+		
+	}
  }
 
  @media (min-width: 576px) and (max-width: 767.98px) {
